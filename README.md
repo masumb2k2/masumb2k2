@@ -106,18 +106,20 @@
 |---|---|
 | ![](https://github-readme-stats.vercel.app/api?username=masumb2k2&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br>![](https://nirzak-streak-stats.vercel.app/?user=masumb2k2&theme=shadow_blue&hide_border=false)<br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=masumb2k2&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=masumb2k2&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true) |
 
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=masumb2k2&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=masumb2k2&radius=16&theme=vue&area=true&order=5&hide_border=true" height="294" alt="activity-graph graph"  />
 </div>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masumb2k2/masumb2k2/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masumb2k2/masumb2k2/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/masumb2k2/masumb2k2/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img height="620" src="[https://camo.githubusercontent.com/a777cc27dc502244e97bb7ff1bed54221e8fcca6a3e4c29cc88be78fee05d0ac/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a5450793470665f503151554e565a717a6e676a6c69412e676966](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)"  />
 </div>
 
   
