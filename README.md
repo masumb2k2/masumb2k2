@@ -112,6 +112,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
 </div>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=masumb2k2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 ![](https://raw.githubusercontent.com/masumb2k2/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/masumb2k2/github-stats-transparent/output/generated/languages.svg)
 
