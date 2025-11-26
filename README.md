@@ -106,16 +106,14 @@
 |---|---|
 | ![](https://github-readme-stats.vercel.app/api?username=masumb2k2&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br>![](https://nirzak-streak-stats.vercel.app/?user=masumb2k2&theme=shadow_blue&hide_border=false)<br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=masumb2k2&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=masumb2k2&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true) |
 
+
 <div align="center">
-  <picture>
+  <img src="https://github-profile-trophy.vercel.app?username=masumb2k2&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
+   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=masumb2k2&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=masumb2k2&radius=16&theme=vue&area=true&order=5&hide_border=true" height="294" alt="activity-graph graph"  />
 </div>
 
