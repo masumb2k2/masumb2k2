@@ -16,15 +16,9 @@
 
 <img align="right" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXEzcmU5YjMzbjE2MHc5OG5xbHZ2ZjRjcDVteXMweDN1dHd1enc5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
-###
 
 <h2 align="left">🚀 About Me<br>💻 Engineer & Researcher | AI Enthusiast | National Champion <br>🧠 Skilled in Python, Linux, Flutter, OpenCV, TensorFlow & more.<br>📬 Contact: masumb2k2@gmail.com<br>🌟 Passionate about automation, AI and clean, impactful code.</h2>
 
-###
-
-<br clear="both">
-
-### 🌍|  Let's Stay Connected:
 <div align="center">
   <a href="https://discord.com/channels/@masumb2k2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="33" alt="discord logo"  />
@@ -51,7 +45,7 @@
 
 
 
-### 🤖 | Technical Skills:
+<h1 align="left">🤖 | Technical Skills:</h1>
 
 ###
 
