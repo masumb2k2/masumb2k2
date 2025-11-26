@@ -38,16 +38,8 @@
   <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=flat" height="33" alt="gitlab logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-
-
-
 <h1 align="left">🤖 | Technical Skills:</h1>
 
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
