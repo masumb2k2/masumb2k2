@@ -47,10 +47,8 @@
 
 <br clear="both">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=masumb2k2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+
 
 <h1 align="left">🤖 | Technical Skills:</h1>
 
@@ -113,6 +111,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
 </div>
+
+![](https://raw.githubusercontent.com/masumb2k2/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/masumb2k2/github-stats-transparent/output/generated/languages.svg)
 
 <div align="center">
   <picture>
