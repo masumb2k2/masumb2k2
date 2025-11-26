@@ -24,6 +24,7 @@
 
 <br clear="both">
 
+<h2 align="left">🌍|  Let's Stay Connected:</h2>
 <div align="center">
   <a href="https://discord.com/channels/@masumb2k2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="33" alt="discord logo"  />
@@ -50,7 +51,7 @@
 
 
 
-<h1 align="left">🤖 | Technical Skills:</h1>
+<h2 align="left">🤖 | Technical Skills:</h2>
 
 ###
 
