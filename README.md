@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTN1eXFmN2JoMnh3MWNsZDVieGYwaWhiMzZndTN4ZmwyaXZ2eDE1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif"  />
+  <img height="620" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZvbHVxb3l2bWMwczlqZ2V4Y2t3eHA2ZzV2bjhseXk3Y2I1YzQ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
 </div>
 
 ###
@@ -19,6 +19,26 @@
 ###
 
 <h2 align="left">🚀 About Me<br>💻 Engineer & Researcher | AI Enthusiast | National Champion <br>🧠 Skilled in Python, Linux, Flutter, OpenCV, TensorFlow & more.<br>📬 Contact: masumb2k2@gmail.com<br>🌟 Passionate about automation, AI and clean, impactful code.</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/masumb2k2/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/@masumb2k2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="masumb2k2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/masumb2k2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</div>
 
 ###
 
@@ -88,46 +108,21 @@
 
 ###
 
-<h1 align="left">🌍|  Let's Stay Connected:</h1>
+<img src="https://raw.githubusercontent.com/masumb2k2/masumb2k2/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/masumb2k2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/@masumb2k2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="masumb2k2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/masumb2k2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <img src="https://github-profile-trophy.vercel.app?username=masumb2k2&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masumb2k2&radius=16&theme=vue&area=true&order=5&hide_border=true" height="294" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=masumb2k2&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=masumb2k2&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masumb2k2&radius=16&theme=cobalt&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masumb2k2/masumb2k2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masumb2k2/masumb2k2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/masumb2k2/masumb2k2/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<br clear="both">
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="720" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
