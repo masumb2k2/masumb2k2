@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<h2 align="left">🌍|  Let's Stay Connected:</h2>
+### 🌍|  Let's Stay Connected:
 <div align="center">
   <a href="https://discord.com/channels/@masumb2k2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="33" alt="discord logo"  />
@@ -51,7 +51,7 @@
 
 
 
-<h2 align="left">🤖 | Technical Skills:</h2>
+### 🤖 | Technical Skills:
 
 ###
 
@@ -133,5 +133,5 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-###
+
   
