@@ -40,8 +40,7 @@
 </div>
 
 <h1 align="left">🤖 | Technical Skills:</h1>
-
-
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -105,7 +104,7 @@
 
 | 📊 GitHub Stats | 🔝 Top Contributed Repo |
 |---|---|
-| ![](https://github-readme-stats.vercel.app/api?username=masumb2k2&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=masumb2k2&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=masumb2k2&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true) <br>![](https://nirzak-streak-stats.vercel.app/?user=masumb2k2&theme=shadow_blue&hide_border=false) |
+| ![](https://nirzak-streak-stats.vercel.app/?user=masumb2k2&theme=shadow_blue&hide_border=false) <br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=masumb2k2&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=masumb2k2&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true) <br> ![](https://github-readme-stats.vercel.app/api?username=masumb2k2&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)|
 
 
 <div align="center">
