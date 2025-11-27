@@ -19,30 +19,30 @@
 
 <h2 align="left">🚀 | About Me</h2>
 💻 Engineer & Researcher | AI Enthusiast | National Champion <br>🧠 Skilled in Python, Linux, Flutter, OpenCV, TensorFlow & more.<br>📬 Contact: masumb2k2@gmail.com<br>🌟 Passionate about automation, AI and clean, impactful code.
-
+<br>
 <div align="center">
   <a href="https://discord.com/channels/@masumb2k2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="33" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="52" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/masumb2k2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="33" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="52" alt="linkedin logo"  />
   </a>
   <a href="masumb2k2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="33" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="52" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/masumb2k2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="33" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="52" alt="facebook logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="33" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="33" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="33" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=flat" height="33" alt="gitlab logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="52" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="52" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="52" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=flat" height="52" alt="gitlab logo"  />
 </div>
 
 <h1 align="left">🤖 | Technical Skills:</h1>
-<br>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="52" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
   <img width="12" />
@@ -104,7 +104,7 @@
 
 | 📊 GitHub Stats | 🔝 Top Contributed Repo |
 |---|---|
-| ![](https://nirzak-streak-stats.vercel.app/?user=masumb2k2&theme=shadow_blue&hide_border=false) <br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=masumb2k2&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=masumb2k2&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true) <br> ![](https://github-readme-stats.vercel.app/api?username=masumb2k2&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)|
+| ![](https://nirzak-streak-stats.vercel.app/?user=masumb2k2&theme=shadow_blue&hide_border=false) <br> ![](https://github-readme-stats.vercel.app/api?username=masumb2k2&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-contributor-stats.vercel.app/api?username=masumb2k2&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true) <br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=masumb2k2&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)|
 
 
 <div align="center">
