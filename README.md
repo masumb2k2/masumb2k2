@@ -17,7 +17,8 @@
 <img align="right" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXEzcmU5YjMzbjE2MHc5OG5xbHZ2ZjRjcDVteXMweDN1dHd1enc5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 
-<h2 align="left">🚀 About Me<br>💻 Engineer & Researcher | AI Enthusiast | National Champion <br>🧠 Skilled in Python, Linux, Flutter, OpenCV, TensorFlow & more.<br>📬 Contact: masumb2k2@gmail.com<br>🌟 Passionate about automation, AI and clean, impactful code.</h2>
+<h2 align="left">🚀 | About Me</h2>
+💻 Engineer & Researcher | AI Enthusiast | National Champion <br>🧠 Skilled in Python, Linux, Flutter, OpenCV, TensorFlow & more.<br>📬 Contact: masumb2k2@gmail.com<br>🌟 Passionate about automation, AI and clean, impactful code.
 
 <div align="center">
   <a href="https://discord.com/channels/@masumb2k2" target="_blank">
@@ -104,7 +105,7 @@
 
 | 📊 GitHub Stats | 🔝 Top Contributed Repo |
 |---|---|
-| ![](https://github-readme-stats.vercel.app/api?username=masumb2k2&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br>![](https://nirzak-streak-stats.vercel.app/?user=masumb2k2&theme=shadow_blue&hide_border=false)<br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=masumb2k2&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=masumb2k2&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true) |
+| ![](https://github-readme-stats.vercel.app/api?username=masumb2k2&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=masumb2k2&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=masumb2k2&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true) <br>![](https://nirzak-streak-stats.vercel.app/?user=masumb2k2&theme=shadow_blue&hide_border=false) |
 
 
 <div align="center">
