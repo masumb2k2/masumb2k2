@@ -101,7 +101,15 @@
 </div>
 
 
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masumb2k2/masumb2k2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masumb2k2/masumb2k2/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/masumb2k2/masumb2k2/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 | 📊 GitHub Stats | 🔝 Top Contributed Repo |
 |---|---|
@@ -110,11 +118,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=masumb2k2&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
-   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=masumb2k2&radius=16&theme=shadow_blue&area=true&order=5&hide_border=true" height="294" alt="activity-graph graph"  />
 </div>
 
